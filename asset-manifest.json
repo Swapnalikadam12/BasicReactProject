@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BasicReactProject/static/css/main.f9c1c55b.chunk.css",
+    "main.js": "/BasicReactProject/static/js/main.5d8f212c.chunk.js",
+    "main.js.map": "/BasicReactProject/static/js/main.5d8f212c.chunk.js.map",
+    "runtime-main.js": "/BasicReactProject/static/js/runtime-main.342f04b1.js",
+    "runtime-main.js.map": "/BasicReactProject/static/js/runtime-main.342f04b1.js.map",
+    "static/js/2.6f30825e.chunk.js": "/BasicReactProject/static/js/2.6f30825e.chunk.js",
+    "static/js/2.6f30825e.chunk.js.map": "/BasicReactProject/static/js/2.6f30825e.chunk.js.map",
+    "static/js/3.518d6fb7.chunk.js": "/BasicReactProject/static/js/3.518d6fb7.chunk.js",
+    "static/js/3.518d6fb7.chunk.js.map": "/BasicReactProject/static/js/3.518d6fb7.chunk.js.map",
+    "index.html": "/BasicReactProject/index.html",
+    "static/css/main.f9c1c55b.chunk.css.map": "/BasicReactProject/static/css/main.f9c1c55b.chunk.css.map",
+    "static/js/2.6f30825e.chunk.js.LICENSE.txt": "/BasicReactProject/static/js/2.6f30825e.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/BasicReactProject/static/media/city.66512aa4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.342f04b1.js",
+    "static/js/2.6f30825e.chunk.js",
+    "static/css/main.f9c1c55b.chunk.css",
+    "static/js/main.5d8f212c.chunk.js"
+  ]
+}
